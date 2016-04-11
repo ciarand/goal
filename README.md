@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # g()('al')
 
 `g()('al')` is a challenge whereby you need to write in as many languages as
